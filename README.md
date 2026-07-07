@@ -1,5 +1,12 @@
-# Cyber-seguran-a
+# ARGUS AI Cyber-seguran-a
 cibersegurança que identifica atividades suspeitas de login por análise geográfica e comportamental, aplicando validação de identidade por selfie com reconhecimento ocular. O sistema detecta acessos incomuns, reduz fraudes, previne invasões e reforça a autenticação com inteligência artificial e análise de risco em tempo real.
+
+O ARGUS AI é o núcleo inteligente da nossa plataforma de cibersegurança. Integrado aos sistemas de instituições financeiras e outros serviços digitais compatíveis,
+ele monitora continuamente eventos de autenticação para identificar atividades de login potencialmente suspeitas em tempo real.
+
+Enquanto você utiliza seu smartphone normalmente, o ARGUS AI analisa sinais como localização aproximada, dispositivo utilizado, horário de acesso, padrão de comportamento e outros indicadores de risco. Quando um acesso exige uma verificação adicional, o sistema pode solicitar uma selfie para realizar a autenticação por reconhecimento ocular e confirmar a identidade do usuário.
+
+Com inteligência artificial e análise contínua, o ARGUS AI ajuda a reduzir riscos de acessos não autorizados, fortalecendo a proteção de contas e proporcionando uma experiência de segurança rápida, intuitiva e confiável.
 
 https://notebooklm.google.com/notebook/39513cd8-de41-4f59-aeeb-14c46b325a7b/artifact/e14cb014-909a-4f4a-a2d3-6a3c423dd053?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
 
